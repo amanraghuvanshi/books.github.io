@@ -22,7 +22,7 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanraghuvanshi/)
 <div align="center">
-  <p>The following website project is a fully responsive portfolio, designed with HTML, CSS, JavaScript</p><br>
+  <p>Welcome to the BOOKAVEN, your personalized heaven for books, Enjoy ❤️</p><br>
   <a href="https://amanraghuvanshi.github.io/books.github.io/"><strong>Live Demo</strong></a>
 </div>
 
