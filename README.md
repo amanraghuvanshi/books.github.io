@@ -1,7 +1,7 @@
-<p align="center>"#B O O K A V E N</p>
+<p align="center"><strong>#B O O K A V E N</strong></p>
 Bookaven - The Store of knowledge at your fingertips
 
-<p align="center"><strong>It's still on Beta!!, I believe together we can gain perfection.<br>All your advises are welcomed. Feel free to contact.<br>Your ideas and innovations are warmly welcomed</strong></p>
+<p align="center"><strong> I believe together we can gain perfection.<br>All your advises are welcomed. Feel free to contact.<br>Your ideas and innovations are warmly welcomed</strong></p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/amanraghuvanshi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
