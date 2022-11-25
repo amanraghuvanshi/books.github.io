@@ -23,7 +23,8 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanraghuvanshi/)
 <div align="center">
   <p align="center"><strong>Welcome to the BOOKAVEN, your personalized heaven for books, Enjoy ❤️</strong></p><br>
-  <a href="https://amanraghuvanshi.github.io/books.github.io/"><strong>Live Demo</strong></a>
+  <a href="https://amanraghuvanshi.github.io/books.github.io/"><strong>➡️ Live Demo</strong></a>
 </div>
+<br><hr>
 
 ![image](https://user-images.githubusercontent.com/110326399/203946126-6a16748c-e589-42b5-8d56-47c48e8df9c3.png)
