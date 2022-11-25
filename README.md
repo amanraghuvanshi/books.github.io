@@ -1,5 +1,5 @@
 <p align="center"><strong>#B O O K A V E N</strong></p>
-Bookaven - The Store of knowledge at your fingertips
+<p align="center"><strong>Bookaven - The Store of knowledge at your fingertips</strong></p>
 
 <p align="center"><strong> I believe together we can gain perfection.<br>All your advises are welcomed. Feel free to contact.<br>Your ideas and innovations are warmly welcomed</strong></p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
